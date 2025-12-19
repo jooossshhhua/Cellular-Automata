@@ -1,5 +1,7 @@
 # Cellular-Automata
 
+> **Note:** This is a free, open-source educational project. There are no subscriptions, fees, or accounts required to use this software. Simply clone the repository and run the code!
+
 This project is a simple Python implementation of an Elementary Cellular Automaton, a one-dimensional system where each cell can be either alive (1) or dead (0), and its next state depends on itself and its two neighbors based on a rule number (0–255). The program starts with a single active cell in the middle and evolves the pattern over multiple generations using characters ( █ for alive, space for dead) to display the output. 
 
 Here are some famous rules:
